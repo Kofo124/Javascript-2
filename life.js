@@ -1,6 +1,6 @@
-let myName = 'Chibuzo Okafor';
-let myHeight = '6ft';
-let myCountry = 'Nigeria';
+let myName = 'Name = Chibuzo Okafor';
+let myHeight = 'Height = 6ft';
+let myCountry = 'Country = Nigeria';
 
 console.log(myName);
 console.log(myHeight);
